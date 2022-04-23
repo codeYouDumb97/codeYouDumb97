@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeYouDumb97
+- 👋 Hi, I’m Sahil Ohe. This is my another github account
 - 👀 This account is just to keep myself motivated to code and do stuff!
 - 🌱 I’m currently learning ... web3
 - 💞️ I’m looking to collaborate on productivity
